@@ -25,7 +25,9 @@
 ### Полезные ссылки
 - [Подсказка по markdown](https://www.markdownguide.org/basic-syntax/)
 
-# pytest_ui_api_template
 
-## Шаблон для автоматизации тестирования на python
+### Библиотеки (!)
+- pyp install pytest
+- pip install selenium
+- pip install webdriver-manager
 
